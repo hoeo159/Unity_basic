@@ -2,6 +2,10 @@
 
 * [Title](README.md)
 
-## Group 1
+## 유니티 기초
 
-* [Page 1](group-1/page-1.md)
+* [게임 개발자의 마음가짐](undefined/undefined.md)
+
+## 닷지 슈팅 게임
+
+* [Page 2](undefined-1/page-2.md)
