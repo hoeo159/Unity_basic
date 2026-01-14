@@ -11,4 +11,6 @@
 
 ## 닷지 슈팅 게임
 
-* [Page 2](undefined-1/page-2.md)
+* [Unity6 키보드 입력 가이드](undefined-1/unity6.md)
+* [rigidbody.AddForce()](undefined-1/rigidbody.addforce.md)
+* [간단한 playerController](undefined-1/playercontroller.md)
