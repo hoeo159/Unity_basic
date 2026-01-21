@@ -14,3 +14,6 @@
 * [Unity6 키보드 입력 가이드](undefined-1/unity6.md)
 * [rigidbody.AddForce()](undefined-1/rigidbody.addforce.md)
 * [간단한 playerController](undefined-1/playercontroller.md)
+* [is trigger](undefined-1/is-trigger.md)
+* [frame과 실제 시간 다루기](undefined-1/frame.md)
+* [GameManager 만들기](undefined-1/gamemanager.md)
