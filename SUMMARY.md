@@ -17,3 +17,4 @@
 * [is trigger](undefined-1/is-trigger.md)
 * [frame과 실제 시간 다루기](undefined-1/frame.md)
 * [GameManager 만들기](undefined-1/gamemanager.md)
+* [PlayerPrefs](undefined-1/playerprefs.md)
