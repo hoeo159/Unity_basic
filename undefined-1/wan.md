@@ -1,6 +1,6 @@
 # 닷지 슈팅 게임 -完-
 
-&#x20;주소는 [여](https://github.com/hoeo159/Hello_Unity)로 가면 된다. 처음에 Hello World 느낌으로 깔짝대다가 바로 만들어서 dodge 같은 이름이 아니라 바로  Hello Unity가 되버렸다,,, 고치는 것은 다음에 미뤄야 할 것 같다
+&#x20;주소는 [여기](https://github.com/hoeo159/Hello_Unity)로 가면 된다. 처음에 Hello World 느낌으로 깔짝대다가 바로 만들어서 dodge 같은 이름이 아니라 바로  Hello Unity가 되버렸다,,, 고치는 것은 다음에 미뤄야 할 것 같다
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
