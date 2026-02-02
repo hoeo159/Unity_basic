@@ -21,6 +21,13 @@
 * [Scene - center? pivot?](undefined-2/scene-center-pivot.md)
 * [공간 관련 퀴즈](undefined-2/undefined.md)
 
-## 플랫포머 게임
+## 덕르코프 느낌의 쿼터뷰 슈팅
 
-* [Page 1](undefined-3/page-1.md)
+* [사전 준비](undefined-3/undefined.md)
+* [Lightmap](undefined-3/lightmap.md)
+* [Global Illumination](undefined-3/global-illumination.md)
+* [Lighting 세부 설정들](undefined-3/lighting.md)
+
+## TBD
+
+* [TBD](tbd/tbd.md)
