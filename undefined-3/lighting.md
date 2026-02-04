@@ -1,6 +1,8 @@
 # Lighting 세부 설정들
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;설명안했던 부분에 대한 간략한 설명이다.
 

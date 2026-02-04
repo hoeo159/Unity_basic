@@ -4,11 +4,11 @@
 
 &#x20;trade-off로 매우 높은 부하가 걸리기 때문에 적당한 타협을 보는게 중요하다. 이것도 마찬가지로 고정된 오브젝트들에 대해 제한된다.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Window-Rendering-Lighting-Realtime Lighting에 있습니다잉</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Window-Rendering-Lighting-Realtime Lighting에 있습니다잉</p></figcaption></figure>
 
 &#x20;우리가 만들 Lightmap처럼 미리 벽에 발라버린 것을 Baked GI, 움직이는 물체나 시간(밤/낮)에 따라 변경하는 것을 Realtime GI라고 한다. 흔히 아는 Ray Tracing이 이 부분을 계산한다. 근데 이 실시간도 미리 계산하는 정보들이 필요하기 때문에 Precomputed Realtime GI라고 부르기도 한다.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Realtime Lighting 아래에는 Mixed Lighting이 있다. 이 모드들은 다음과 같다.
 
@@ -27,7 +27,7 @@
 
 &#x20;좀 길어지는데 Light Component에도 비슷한 부분이 있다. 해당 light가 실시간으로 light effect를 반영할 것인지 또는 lightmap에 미리 구워서 사용할 것인지 정한다.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Mode 부분에 볼 수 있는데 각 특징은 다음과 같다.
 
