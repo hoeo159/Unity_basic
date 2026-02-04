@@ -20,6 +20,7 @@
 
 * [Scene - center? pivot?](undefined-2/scene-center-pivot.md)
 * [공간 관련 퀴즈](undefined-2/undefined.md)
+* [Quaternion](undefined-2/quaternion.md)
 * [FSM, 유한 상태 머신](undefined-2/fsm.md)
 * [Property](undefined-2/property.md)
 
@@ -32,6 +33,7 @@
 * [Player Rigidbody](undefined-3/player-rigidbody.md)
 * [Animator](undefined-3/animator.md)
 * [아바타 마스크](undefined-3/undefined-1.md)
+* [Cinemachine](undefined-3/cinemachine.md)
 * [IK 관련 \~ TBD](undefined-3/ik-tbd.md)
 
 ## TBD

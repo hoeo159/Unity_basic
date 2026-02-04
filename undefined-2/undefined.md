@@ -14,7 +14,7 @@ void Start()
 
 &#x20;코드를 보면 Sphere의 게임 오브젝트 위치는 0, -1, 0이고 자식인 Cube의 지역 위치는 0, 2, 0이다. 그리고 저 코드를 Sphere에 넣고 자식을 Cube에 넣고 실행한다. 실행 중에 일시적으로 수정해서 Cube를 자식 해제 하면 Cube의 위치는 어디에 찍힐까??
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>정답</p></figcaption></figure>
 
 ```
     void Update()
@@ -41,6 +41,6 @@ void Start()
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;코드는 [여기](https://github.com/hoeo159/Unity_Playground)에서 볼 수 있는데 일단 고칠 부분이 있다.
+&#x20;코드는 [여기](https://github.com/hoeo159/Unity_Playground/tree/main/Move)에서 볼 수 있는데 일단 고칠 부분이 있다.
 
 * [ ] 레포 최신화 하기
