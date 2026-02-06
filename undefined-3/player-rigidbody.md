@@ -2,7 +2,7 @@
 
 #### Rigidbody Component
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1. mass : 물체 무게, 충돌과 같은 물리현상에 대한 정도
 2. Linear Damping :\
@@ -22,4 +22,4 @@
 
 &#x20;보통 Rigidbody하고 Collider를 만들 때 사람 같은 Player는 Capsule Collider로 성능 향상을 노릴 수 있다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

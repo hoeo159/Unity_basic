@@ -2,7 +2,7 @@
 
 &#x20;Player 오브젝트는 기본적으로 [유한 상태 머신](../undefined-2/fsm.md)이다. 따라서 현재 상태는 하나의 상태만 될 수 있다. 하지만 여러 개의 FSM을 병렬로 실행하는 방식으로 여러 상태가 동시에 중첩되게 할 수 있다. Animator에서도 Layer를 여러 개 쌓음으로써 여러 애니메이션을 하나의 오브젝트에 중첩되게 할 수 있다.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Player의 Animator</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Player의 Animator</p></figcaption></figure>
 
 &#x20;Layer 탭을 보면 Base Movement 레이어는 걷고 뛰는 기본 움직임에 Upper Body 레이어로 조준, 재장전 애니메이션을 덮을 수 있다. 이는 [아바타 마스크](undefined-1.md)에서 설정해줄 수 있다. 기본적으로 위에서 아래로 덮어쓰는 overridding 형식이기 때문에 순서에 주의하면 된다. Parameter에는 보통 애니메이션 정도를 위한 값, 다른 상태의 전이 조건을 위한 트리거 등으로 쓰인다.
 
