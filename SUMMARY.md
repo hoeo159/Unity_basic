@@ -20,9 +20,11 @@
 
 * [Scene - center? pivot?](undefined-2/scene-center-pivot.md)
 * [공간 관련 퀴즈](undefined-2/undefined.md)
+* [Event Functions](undefined-2/event-functions.md)
 * [Quaternion](undefined-2/quaternion.md)
 * [FSM, 유한 상태 머신](undefined-2/fsm.md)
 * [Property](undefined-2/property.md)
+* [Line Renderer](undefined-2/line-renderer.md)
 
 ## 덕르코프 느낌의 쿼터뷰 슈팅
 
@@ -35,6 +37,8 @@
 * [아바타 마스크](undefined-3/undefined-1.md)
 * [Cinemachine](undefined-3/cinemachine.md)
 * [Virtual Camera](undefined-3/virtual-camera.md)
+* [interface](undefined-3/interface.md)
+* [Scriptable Object](undefined-3/scriptable-object.md)
 * [IK 관련 \~ TBD](undefined-3/ik-tbd.md)
 
 ## TBD
