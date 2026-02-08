@@ -9,7 +9,7 @@
 
 * [Unity6 키보드 입력 가이드](undefined-1/unity6.md)
 * [rigidbody.AddForce()](undefined-1/rigidbody.addforce.md)
-* [간단한 playerController](undefined-1/playercontroller.md)
+* [간단한 playerController(Code)](undefined-1/playercontroller-code.md)
 * [is trigger](undefined-1/is-trigger.md)
 * [frame과 실제 시간 다루기](undefined-1/frame.md)
 * [GameManager 만들기](undefined-1/gamemanager.md)
@@ -20,8 +20,8 @@
 
 * [Scene - center? pivot?](undefined-2/scene-center-pivot.md)
 * [공간 관련 퀴즈](undefined-2/undefined.md)
-* [Event Functions](undefined-2/event-functions.md)
 * [Quaternion](undefined-2/quaternion.md)
+* [Event Functions](undefined-2/event-functions.md)
 * [FSM, 유한 상태 머신](undefined-2/fsm.md)
 * [Property](undefined-2/property.md)
 * [Line Renderer](undefined-2/line-renderer.md)
@@ -39,6 +39,9 @@
 * [Virtual Camera](undefined-3/virtual-camera.md)
 * [interface](undefined-3/interface.md)
 * [Scriptable Object](undefined-3/scriptable-object.md)
+* [Coroutine](undefined-3/coroutine.md)
+* [Coroutine을 이용한 Effect 구현(Code)](undefined-3/coroutine-effect-code.md)
+* [Raycast 기초](undefined-3/raycast.md)
 * [IK 관련 \~ TBD](undefined-3/ik-tbd.md)
 
 ## TBD

@@ -7,7 +7,7 @@
 
 &#x20;Cinemachine의 카메라 추적을 구현하려면 우선 Brain Camera를 먼저 만들어야 한다. 이는 게임 월드를 촬영하는 현실 카메라이고 씬에 하나만 존재할 수 있다.
 
-&#x20;Virtual Camera는 실제 카메라로 동작하지 않지만 여러 parameter를 제공한다. Brain Camera가 특정 Virtual Camera를 activated camera로 설정하면 해당 위치로 이동한다. 또한 Virtual Camera의 여러 설정 값들을 입힐 수 있다. Brain Camera의 프리셋이나 shortcut 정도로 해석할 수 있다.
+&#x20;[Virtual Camera](virtual-camera.md)는 실제 카메라로 동작하지 않지만 여러 parameter를 제공한다. Brain Camera가 특정 Virtual Camera를 activated camera로 설정하면 해당 위치로 이동한다. 또한 Virtual Camera의 여러 설정 값들을 입힐 수 있다. Brain Camera의 프리셋이나 shortcut 정도로 해석할 수 있다.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Brain Camera 설정</p></figcaption></figure>
 
