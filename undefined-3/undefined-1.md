@@ -6,7 +6,7 @@
 
 <figure><img src="../.gitbook/assets/스크린샷 2026-02-05 062001 (1).png" alt=""><figcaption><p>Avartar Mask</p></figcaption></figure>
 
-&#x20;참고로 IK는 Upper Body Layer의 애니메니션에 Inverse Kinetic을 적용한다는 의미이다. 이 부분은 [뒷부분](ik-tbd.md)에 설명한다.
+&#x20;참고로 IK는 Upper Body Layer의 애니메니션에 Inverse Kinetic을 적용한다는 의미이다. 이 부분은 [뒷부분](../undefined-2/fk-ik.md)에 설명한다.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Mask 할당하기</p></figcaption></figure>
 

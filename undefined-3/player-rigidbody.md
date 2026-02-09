@@ -22,4 +22,4 @@
 
 &#x20;보통 Rigidbody하고 Collider를 만들 때 사람 같은 Player는 Capsule Collider로 성능 향상을 노릴 수 있다.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

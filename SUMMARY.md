@@ -25,6 +25,7 @@
 * [FSM, 유한 상태 머신](undefined-2/fsm.md)
 * [Property](undefined-2/property.md)
 * [Line Renderer](undefined-2/line-renderer.md)
+* [FK와 IK](undefined-2/fk-ik.md)
 
 ## 덕르코프 느낌의 쿼터뷰 슈팅
 
@@ -35,6 +36,7 @@
 * [Player Rigidbody](undefined-3/player-rigidbody.md)
 * [Animator](undefined-3/animator.md)
 * [아바타 마스크](undefined-3/undefined-1.md)
+* [Animator 관련 코드](undefined-3/animator-1.md)
 * [Cinemachine](undefined-3/cinemachine.md)
 * [Virtual Camera](undefined-3/virtual-camera.md)
 * [interface](undefined-3/interface.md)
@@ -42,7 +44,6 @@
 * [Coroutine](undefined-3/coroutine.md)
 * [Coroutine을 이용한 Effect 구현(Code)](undefined-3/coroutine-effect-code.md)
 * [Raycast 기초](undefined-3/raycast.md)
-* [IK 관련 \~ TBD](undefined-3/ik-tbd.md)
 
 ## TBD
 

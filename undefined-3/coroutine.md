@@ -22,6 +22,7 @@ IEnumerator TodayWork(){
     yield return null; // 1 프레임만 쉬기
     // 잠 자기
 }
+
 // 실행 방법
 StartCoroutine(TodayWork());
 StartCoroutine("TodayWork");

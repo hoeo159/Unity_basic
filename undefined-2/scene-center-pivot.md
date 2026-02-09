@@ -2,7 +2,7 @@
 
 &#x20;Scene 탭에 보면 이상한 게 있다.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;옆에 Global, Local은 유니티의 공간 모드를 전역으로 할 것인지, 내가 고른 오브젝트 중심으로 할 것인지 하는 이름만큼 이해하면 되는건데 Pivot은 퀵소트 때 말고 들은 적이 없는 생소한 단어라서 와닿지 않았다. 요것은 조작 핸들, 흔히 기즈모(Gizmo, 뭐시기, 아무튼 이라는 뜻)를 띄우는 방식이다.
 

@@ -8,7 +8,7 @@
 
 &#x20;근데 이런 경우에는 단점이 존재한다. 게임 오브젝트들은 대부분이 뭔가 이런 상속의 개념보다 비슷한 이론들을 요구하는 경우가 많다는 것이다. 이게 말로 하기가 좀 애매한데 그림판으로 설명하자면 상속은 아래와 같다.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>이게 상속</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>이게 상속</p></figcaption></figure>
 
 &#x20;이게 지금까지 그리고 class 개념의 기본적인 모양새인데 앞으로겪을실제 게임 오브젝트들은 아래 상황이 더 많다.
 
